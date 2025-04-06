@@ -35,43 +35,36 @@ FitAI is a personalized fitness and nutrition application that leverages artific
 - npm or yarn
 - OpenAI API key (for AI features)
 
-### Installation
+## 🚀 Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/fitai.git
    cd fitai
-  
+   ```
 
 2. Install dependencies:
-
-```shellscript
-npm install
-# or
-yarn install
-```
-
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
 3. Create a `.env.local` file in the root directory with the following variables:
-
-```plaintext
-OPENAI_API_KEY=your_openai_api_key
-NEXTAUTH_SECRET=your_nextauth_secret
-NEXTAUTH_URL=http://localhost:3000
-```
-
+   ```
+   OPENAI_API_KEY=your_openai_api_key
+   NEXTAUTH_SECRET=your_nextauth_secret
+   NEXTAUTH_URL=http://localhost:3000
+   ```
 
 4. Start the development server:
-
-```shellscript
-npm run dev
-# or
-yarn dev
-```
-
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
-
 
 ## 🔍 Usage
 
@@ -84,35 +77,24 @@ yarn dev
 5. **Nutrition**: View meal plans and recipes tailored to your goals
 6. **Progress**: Track your fitness journey with visual metrics
 
-
 ### Admin Panel
 
 1. Access the admin panel at `/admin` with admin credentials
 2. Default admin login:
+   - Email: [admin@fitai.com](mailto:admin@fitai.com)
+   - Password: admin123 (change this in production)
 
-1. Email: [admin@fitai.com](mailto:admin@fitai.com)
-2. Password: admin123 (change this in production)
-
-
-
-
-
-#### Admin Features:
+### Admin Features:
 
 - **Dashboard**: View key metrics and analytics
 - **User Management**: Manage user accounts and data
 - **Workout Programs**: Create and manage workout content
 - **Nutrition Plans**: Develop and organize meal plans
 - **AI Generator**: Create content using AI
-
-- Generate workout programs
-- Create nutrition plans
-- Develop coaching scripts
-
-
-
+  - Generate workout programs
+  - Create nutrition plans
+  - Develop coaching scripts
 - **Settings**: Configure application settings
-
 
 ## 🤖 AI Integration
 
@@ -122,54 +104,45 @@ FitAI uses OpenAI's GPT models to generate personalized content:
 - **Nutrition Planning**: Develops meal plans considering dietary preferences, caloric needs, and nutritional goals
 - **Coaching Scripts**: Generates motivational content and feedback for users
 
-
 Administrators can customize AI parameters including:
-
 - Model selection (GPT-4o, GPT-3.5 Turbo, etc.)
 - Temperature settings for creativity control
 - Response length and content filtering
 
-
 ## 📱 Mobile Optimization
 
 FitAI is designed with a mobile-first approach:
-
 - Responsive layouts that adapt to any screen size
 - Touch-friendly interface elements
 - Bottom navigation for easy one-handed operation
 - Optimized performance for mobile devices
 
-
 ## 🌐 Multi-language Support
 
 FitAI currently supports:
-
 - 🇺🇸 English
 - 🇹🇷 Turkish
 - 🇩🇪 German
 - 🇫🇷 French
 - 🇪🇸 Spanish
 
-
 ## 📸 Screenshots
-[screenshot1](screenshot1.png)
-[screenshot2](screenshot2.png)
-[screenshot3](screenshot3.png)
-[screenshot4](screenshot4.png)
-[screenshot5](screenshot5.png)
-[screenshot6](screenshot6.png)
-[screenshot7](screenshot7.png)
-[screenshot8](screenshot8.png)
-[screenshot9](screenshot9.png)
-[screenshot10](screenshot10.png)
-[screenshot11](screenshot11.png)
-[screenshot12](screenshot12.png)
-[screenshot13](screenshot13.png)
-[screenshot14](screenshot14.png)
-[screenshot15](screenshot15.png)
 
-
-
+![FitAI Dashboard](screenshot1.png)
+![Workout Page](screenshot2.png)
+![Nutrition Plan](screenshot3.png)
+![Progress Tracking](screenshot4.png)
+![Profile Settings](screenshot5.png)
+![Admin Dashboard](screenshot6.png)
+![AI Generator](screenshot7.png)
+![Mobile View](screenshot8.png)
+![Dark Mode](screenshot9.png)
+![User Management](screenshot10.png)
+![Workout Creator](screenshot11.png)
+![Meal Planner](screenshot12.png)
+![Language Settings](screenshot13.png)
+![System Configuration](screenshot14.png)
+![Analytics Dashboard](screenshot15.png)
 
 ## 🤝 Contributing
 
@@ -181,11 +154,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Contact
 
-For questions or support, please contact [ahmetemreari67@gmail.com](mailto:ahmetemreari67@gmail.com)
+For questions or support, please contact:
+- Email: [ahmetemreari67@gmail.com](mailto:ahmetemreari67@gmail.com)
+- LinkedIn: [linkedin.com/in/aemreari](https://www.linkedin.com/in/aemreari/)
+- GitHub: [github.com/ahmetemreari](https://github.com/ahmetemreari)
