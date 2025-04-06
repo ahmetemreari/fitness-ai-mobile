@@ -128,21 +128,21 @@ FitAI currently supports:
 
 ## 📸 Screenshots
 
-![FitAI Dashboard](screenshot1.png)
-![Workout Page](screenshot2.png)
-![Nutrition Plan](screenshot3.png)
-![Progress Tracking](screenshot4.png)
-![Profile Settings](screenshot5.png)
-![Admin Dashboard](screenshot6.png)
-![AI Generator](screenshot7.png)
-![Mobile View](screenshot8.png)
-![Dark Mode](screenshot9.png)
-![User Management](screenshot10.png)
-![Workout Creator](screenshot11.png)
-![Meal Planner](screenshot12.png)
-![Language Settings](screenshot13.png)
-![System Configuration](screenshot14.png)
-![Analytics Dashboard](screenshot15.png)
+![FitAI Dashboard](screenshots/screenshot1.png)
+![Workout Page](screenshots/screenshot2.png)
+![Nutrition Plan](screenshots/screenshot3.png)
+![Progress Tracking](screenshots/screenshot4.png)
+![Profile Settings](screenshots/screenshot5.png)
+![Admin Dashboard](screenshots/screenshot6.png)
+![AI Generator](screenshots/screenshot7.png)
+![Mobile View](screenshots/screenshot8.png)
+![Dark Mode](screenshots/screenshot9.png)
+![User Management](screenshots/screenshot10.png)
+![Workout Creator](screenshots/screenshot11.png)
+![Meal Planner](screenshots/screenshot12.png)
+![Language Settings](screenshots/screenshot13.png)
+![System Configuration](screenshots/screenshot14.png)
+![Analytics Dashboard](screenshots/screenshot15.png)
 
 ## 🤝 Contributing
 
